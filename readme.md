@@ -4,7 +4,7 @@ This repo contains my end-to-end machine learning work for the **SBA National** 
 
 > **Li, M., Mickel, A., & Taylor, S. (2018).** *“Should This Loan be Approved or Denied?”: A Large Dataset with Class Assignment Guidelines.* Journal of Statistics Education.
 
-The original classroom case frames you as a **loan officer** who must decide whether to **approve or deny** a loan by estimating the **probability of default** (PD). The paper uses **logistic regression** as a baseline, and suggests extending the work with more advanced models.
+The original classroom case frames as a **loan officer** who must decide whether to **approve or deny** a loan by estimating the **probability of default** (PD). The paper uses **logistic regression** as a baseline, and suggests extending the work with more advanced models.
 
 In my notebook, I:
 - Clean and feature-engineer the SBA dataset
